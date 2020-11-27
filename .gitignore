@@ -1,0 +1,5 @@
+# Dependencias
+vendor
+
+# Arquivo de configuração
+config.php
